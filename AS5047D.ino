@@ -1,7 +1,7 @@
 /*
 Test programma voor position chip AS5047D
  Leest Raw angle, status regusters en de Quadrature encoder.
- Jan Jansen 15-05-2015 update 02-06-2015 
+ Jan Jansen 15-05-2015 update 03-06-2015 
  */
 #include <SPI.h>
 #include <Encoder.h>
